@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using Composition.Entities;
 using Composition.Entities.Enums;
-;
+
 
 namespace Composition.Entities {
     class Department {
