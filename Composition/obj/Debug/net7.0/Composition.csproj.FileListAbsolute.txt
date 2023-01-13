@@ -1,0 +1,5 @@
+G:\Udemy\Curso C#\Seção 9\Composition\Composition\obj\Debug\net7.0\Composition.csproj.AssemblyReference.cache
+G:\Udemy\Curso C#\Seção 9\Composition\Composition\obj\Debug\net7.0\Composition.GeneratedMSBuildEditorConfig.editorconfig
+G:\Udemy\Curso C#\Seção 9\Composition\Composition\obj\Debug\net7.0\Composition.AssemblyInfoInputs.cache
+G:\Udemy\Curso C#\Seção 9\Composition\Composition\obj\Debug\net7.0\Composition.AssemblyInfo.cs
+G:\Udemy\Curso C#\Seção 9\Composition\Composition\obj\Debug\net7.0\Composition.csproj.CoreCompileInputs.cache
